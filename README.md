@@ -1,14 +1,17 @@
-= Databases Presentation =
+# Databases Presentation
 
-== Authors ==
+## Authors
 * [Dustin Dodson](https://github.com/FizzyGalacticus)
 * [Nate Helms](https://github.com/DrHoodrich)
 
-== References ==
+## Slides
+The slides for our presentation can be found [here](https://docs.google.com/presentation/d/1qNZfvg6KC3X1qiLZ-xbHxua1c1roNZBwYoAkoYOVBNw/edit?usp=sharing)!
+
+## References
 
 * [Pros and Cons of Relational Vs Non-Relational Databases](http://www.dataversity.net/review-pros-cons-different-databases-relational-versus-non-relational)
-[ACID Compliance](https://en.wikipedia.org/wiki/ACID)
-* Database Normalization, 1keydata.com
+* [ACID Compliance](https://en.wikipedia.org/wiki/ACID)
+* Database Normalization
 	* [1KeyData](https://www.1keydata.com/database-normalization)
 	* Wikipedia
 		* [1NF](https://en.wikipedia.org/wiki/First_normal_form)
